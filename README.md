@@ -1,4 +1,4 @@
-# Ender3_v4.2.2_klipper
+# Ender3_v4.2.2_klipper (This is no longer valid - I have a new setup now)
 Backup for my Ender 3 with Creality v 4.2.2 with klipper
 Thanks to staubgeborener for Klipper-Backup;
 Klipper-Backup is a script for manual or automated GitHub backups. 
